@@ -1,0 +1,5 @@
+flask
+flask-mysql
+cryptography
+flask_cors
+python-dotenv
