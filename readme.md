@@ -1,5 +1,5 @@
 # Dockerized to do list flask app with nginx
-Don't just blindly copy/paste these commands. Ask for Adam's and root passwords ;)  
+Don't just blindly copy/paste these commands. Create passwords for database.  
   
 With the correct Dockerfiles this set of commands will get the todolist app up and running.
 
